@@ -11,10 +11,10 @@ Individual NLP tasks have traditionally been solved by individual models created
 BERT revolutionized the NLP space by solving for 11+ of the most common NLP tasks (and better than previous models) making it the jack of all NLP trades.
 
 ## BERT model size & architecture
-Let’s break down the architecture for the two original BERT models:
-![image](https://user-images.githubusercontent.com/74253329/184485865-1614ed30-2dd0-4ca8-a82f-afac97a62024.png)
-Here’s how many of the above ML architecture parts BERTbase and BERTlarge has:
-![image](https://user-images.githubusercontent.com/74253329/184486123-ddffacd5-69f2-4442-af4c-70f620ca3f79.png)
+Let’s break down the architecture for the two original BERT models:<br>
+![image](https://user-images.githubusercontent.com/74253329/184485865-1614ed30-2dd0-4ca8-a82f-afac97a62024.png) <br>
+Here’s how many of the above ML architecture parts BERTbase and BERTlarge has:<br>
+![image](https://user-images.githubusercontent.com/74253329/184486123-ddffacd5-69f2-4442-af4c-70f620ca3f79.png)<br>
 
 ## Building BERT Pipeline
 In our project we do the following:
